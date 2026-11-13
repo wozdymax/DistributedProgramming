@@ -1,0 +1,12 @@
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\bin\Debug\net8.0\ShardLibrary.deps.json
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\bin\Debug\net8.0\ShardLibrary.dll
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\bin\Debug\net8.0\ShardLibrary.pdb
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ShardLibrary.csproj.AssemblyReference.cache
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ShardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ShardLibrary.AssemblyInfoInputs.cache
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ShardLibrary.AssemblyInfo.cs
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ShardLibrary.csproj.CoreCompileInputs.cache
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ShardLibrary.dll
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\refint\ShardLibrary.dll
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ShardLibrary.pdb
+D:\Study\DP\DISTRIBUTED-PROGRAMMING-pa7\ShardLibrary\obj\Debug\net8.0\ref\ShardLibrary.dll
